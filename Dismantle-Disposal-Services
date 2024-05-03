@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Service Page</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+ 
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header d-flex align-items-center">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="img/logo-01.png" alt=""> 
+        <!-- <h1>Greenergy Tech<span></span></h1>-->
+      </a>
+
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html#intro">Home</a></li>
+          <li><a href="index.html#services" >About</a></li>
+              <li class="dropdown"><a href="#" class="active"><span>Services</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+              <li><a href="Handyman-Carpentry-Services">Handyman & Carpentry</a></li>
+              <li><a href="Waterproofing-Services">Waterproofing Services</a></li>
+              <li><a href="Electrical-Services">Electrical Services</a></li>
+              <li><a href="Plumbing-Services-Services">Plumbing Services</a></li>
+              <li><a href="Painting-Flooring-Services">Painting & Flooring</a></li>
+              <li><a href="Tiles-Repai-Services">Tiles Repair</a></li>
+              <li><a href="Aircon-Services">Aircon Services</a></li>
+              <li><a href="Dismantle-Disposal-Services">Dismantle & Disposal</a></li>
+              <li><a href="Locksmith-Door-Services">Locksmith & Door</a></li>
+              <li><a href="Tile-Roofing-Services">Tile Roofing Services</a></li>
+              <li><a href="Vinyl-flooring-Services">Vinyl flooring</a></li>
+              <li><a href="Washing-Machine-Repair-Services">Washing Machine Repair</a></li>
+                </ul>
+              </li>
+              <li><a href="index.html#portfolio">Prortfolio</a></li>
+              <li><a href="#">Blog</a></li>
+              <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+      <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+
+        <h2>Services</h2>
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li>Services</li>
+        </ol>
+
+      </div>
+    </div><!-- End Breadcrumbs -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+        <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+          <a href="https://api.whatsapp.com/send/?phone=6582155167&text&type=phone_number&app_absent=0" class="btn-get-started scrollto">WhatsApp</a> 
+
+          <a href="tel:+65 8215 5167" class="btn-get-call"> <i class="fa fa-phone" aria-hidden="true"></i> +65 8215 5167</a> <br>
+          </div>
+        <div class="row position-relative">
+
+          <div class="col-lg-7 about-img" style="background-image: url(assets/img/projects/disposal.jpg);"></div>
+
+          <div class="col-lg-7">
+            <h2>Dismantle & Disposal</h2>
+            <div class="our-story">
+              <h4>Why Choose Us?</h4>
+              <h3></h3>
+              <p>
+                Simplify your space with our Dismantle & Disposal service – where efficiency meets eco-consciousness. Our dedicated team ensures seamless removal and responsible disposal of unwanted items, leaving you with a clutter-free environment and a clear conscience.             </p>
+              <ul>
+                <li><i class="bi bi-check-circle"></i> <span>Efficient Dismantling Services</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Responsible Disposal Practices</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Tailored to Your Needs</span></li>
+              </ul>
+              <p>
+                We prioritize eco-friendly disposal methods, ensuring that items are disposed of responsibly, recycling whenever possible to minimize environmental impact.             </p>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End About Section -->
+
+
+    <!-- ======= Alt Services Section ======= -->
+    <section id="alt-services" class="alt-services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="position-relative">
+            <h3>Our Service Includes</h3>            
+            <div class="row">
+              <div class="col-sm-4">
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Dismantle and Disposal</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Furniture Removal</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Appliance Disposal</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Electronics Recycling</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+
+              </div>
+
+              
+
+              <div class="col-sm-4">
+
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Junk Removal</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Eco-Friendly Disposal</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Residential Disposal Services</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Commercial Dismantling</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+
+              </div>
+
+              
+
+              <div class="col-sm-4"> 
+
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Waste Management Services</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Deconstruction Services</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Construction Debris Disposal</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+    
+                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                  <i class="bi bi-patch-check flex-shrink-0"></i>
+                  <div>
+                    <h4><a class="stretched-link">Quick Removal Services</a></h4>
+                  </div>
+                </div><!-- End Icon Box -->
+
+              </div>
+              
+            </div>
+
+          </div>
+
+      </div>
+    </section><!-- End Alt Services Section -->
+
+      <!--==========================
+    Footer
+    2201b07b-157a-4d05-b75f-51c9d4fcb8c5
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <a href="#intro"><img src="img/footer-logo.png" alt="" title="" /></a>
+            <p><br>
+              Empowering Homes with Sustainable Solutions – Greenergy Tech is your trusted partner for eco-friendly home repair services.      </p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html#services">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html#about">Services</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="Terms.html">Terms of service</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="Privacy.html">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+              20 Lorong 22 Geylang<br>
+              Singapore<br>
+              
+              <strong>Phone:</strong> +65 8215 5167<br>
+              <strong>Email:</strong> greenergytechpteltd@gmail.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>
+              Stay in the loop with our newsletter – where innovation meets your inbox. Subscribe for exclusive updates and exciting offers            </p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit"  value="Subscribe">
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>Greenergy Tech</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+          
+        -->
+        Website By<a href="https://xynoslab.com/"> XynosLab</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <a href="https://api.whatsapp.com/send/?phone=6582155167&text&type=phone_number&app_absent=0" class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+    </a>
+    
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
